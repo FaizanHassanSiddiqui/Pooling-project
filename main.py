@@ -16,7 +16,7 @@ LEARNING_RATE = 0.001
 EPOCHS = 1000
 
 
-engine = create_engine('mysql+pymysql://pi:poolmon2018!@app.poolmonitor.de/wask')
+# engine = create_engine('data base link hiddena')
 
 
 class MyData(Dataset):
